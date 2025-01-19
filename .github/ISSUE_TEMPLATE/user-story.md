@@ -1,22 +1,4 @@
----
-name: User Story
-about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: HalyYampolska
-
----
-
----
-name: User Story
-about: My first User Story
-title: ''
-labels: ''
-assignees: ''
-
----
-
-**As a** [role]  
+ **As a** [role]  
  **I need** [function]  
  **So that** [benefit]  
    
